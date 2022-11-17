@@ -72,3 +72,8 @@ body {
     margin: 25px 0 0;
     text-align: center;
 }
+
+.card:hover {
+    transform: scale(105%);
+    background-color: rgba(62, 60, 60, 0.053);
+}
